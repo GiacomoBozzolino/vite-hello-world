@@ -11,11 +11,14 @@ export default {
 </script>
 
 <template lang="">
-  <div>
-    <Jumbotron/>
-  </div>
-  <div>
-    <AppTitle/>
+  <div class="container">
+    <div>
+      <Jumbotron/>
+    </div>
+    <div>
+      <AppTitle/>
+    </div>
+
   </div>
 </template>
 
